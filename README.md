@@ -1,4 +1,4 @@
-Hello DevOps
+Hello World
 
 Simple node.js app that servers 
 
