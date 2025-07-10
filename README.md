@@ -1,6 +1,6 @@
 # Node Hello World
 
-Simple node.js app that servers "Techessay"
+Simple node.js app that servers 
 
 Great for testing simple deployments on Cloud
 
@@ -47,9 +47,6 @@ This command will print the git version in the terminal.
 
 Run below command to clone the code repository from Github:
 
-```bash
-git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
-```
 
 Get inside the directory and Install Packages
 
